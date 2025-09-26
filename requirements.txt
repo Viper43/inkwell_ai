@@ -1,0 +1,10 @@
+python-dotenv
+numpy
+pandas
+langchain
+langchain_community
+langchain-huggingface 
+huggingface_hub
+Groq
+langchain_groq
+streamlit
